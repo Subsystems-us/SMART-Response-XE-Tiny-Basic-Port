@@ -1,6 +1,14 @@
 # SMART-Response-XE-Tiny-Basic-Port
 A port of Tiny Basic Plus for the SMART Response XE
 
+
+**********************************************************************
+NOTE: In my Tindie Store I seel this unit with Arduino BASIC installed
+**********************************************************************
+If differs from Tiny BASIC. To see free memory, use ?. BATT is now a variable so to see battery voltage, use PRINT BATT.
+*************************************************************************************************************************
+
+
 I used Tiny Basic Plus by Gordon Bandly, Mike Field, and Scott Lawrence and the Arduino library for the SMART Response XE by Larry Bank
 to port the basic interpreter to the SMART device.
 
