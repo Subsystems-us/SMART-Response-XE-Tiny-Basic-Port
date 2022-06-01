@@ -3,7 +3,7 @@ A port of Tiny Basic Plus for the SMART Response XE
 
 
 **********************************************************************
-NOTE: In my Tindie Store I seel this unit with Arduino BASIC installed
+NOTE: In my Tindie Store I sell this unit with Arduino BASIC installed
 **********************************************************************
 If differs from Tiny BASIC. To see free memory, use ?. BATT is now a variable so to see battery voltage, use PRINT BATT.
 *************************************************************************************************************************
